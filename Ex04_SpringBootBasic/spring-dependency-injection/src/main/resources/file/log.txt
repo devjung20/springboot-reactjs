@@ -1,0 +1,7 @@
+Account number: 82183921
+Pin code: 9128398192
+Initial balance: 300000
+Current ATM money is 1400000
+Account number: 82183921
+Pin code: 9128398192
+Initial balance: 700000

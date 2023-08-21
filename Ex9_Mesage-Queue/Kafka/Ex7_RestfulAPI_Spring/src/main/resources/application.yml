@@ -1,0 +1,16 @@
+server:
+  port: 2002
+spring:
+  datasource:
+    url: "jdbc:mysql://localhost:3306/sapo_daytwo?createDatabaseIfNotExist=true&useSSL=true"
+    username: "root"
+    password: "050120"
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+
+  # cho phép Spring Boot chấp nhận các tham chiếu lặp lại (circular references) trong các bean
+  main:
+    allow-circular-references: true

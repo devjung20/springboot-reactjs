@@ -1,0 +1,7 @@
+atm:
+  money: 100000
+
+log:
+  file-path: E:\Sapo\Day2\Ex04_SpringBootBasic\spring-dependency-injection\src\main\resources\file\log.txt
+
+
